@@ -1,5 +1,5 @@
 # About
-This game is inspired by Famous Simon Game. It uses JS and JQuery Library. 
+This game is inspired by Famous Simon Game. It uses HTML5, CSS and JQuery Library. 
 
 # Gameplay
 Click A to start. The first level will have a one button press to remember.
